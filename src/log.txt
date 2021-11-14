@@ -1,0 +1,2 @@
+Use of uninitialized value $test in print at ./index.pl line 14.
+Use of uninitialized value $_ in print at ./index.pl line 14.
