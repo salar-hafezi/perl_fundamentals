@@ -1,0 +1,4 @@
+chmod 755 file_name
+echo $?
+od -c file_name
+perl file_name 2>./log.txt
